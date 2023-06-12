@@ -1,0 +1,50 @@
+---
+title: "Mental Health Assessment Report"
+author: "Nathan McCoy"
+date: "2023-06-07"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  bibliography: MPH_Practicum_2023.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+
+# Mental Health in Creative Teams.
+
+</center>
+
+This is a website dedicated to the practicum research completed by Nathan McCoy and Dr. Rodney Bowden during the summer of 2023 regarding the mental health status of collegiate creative teams in the Big 12.
+
+#### Introduction
+
+Mental health plays a significant role in the efficiency and productiveness in any team. Poor mental health and stress can affect job performance, productivity, engagement, communication and daily functioning [@rotensteinPrevalenceBurnoutPhysicians2018].
+
+The research on burnout is extensive including research into specific subsections of the world. Some such populations include medical workers, parents, educators and others which dive deep into the specifics of the details as to why
+
+Twitter has played a major role in understanding and recognizing trends in communities worldwide. It allows for anyone and everyone to have a voice in discourse and to allow minorities to speak out on topics and issues that have affected them. One such community in which I am a part of and continue to interact with on a daily basis, espeically on Twitter, is the collegiate athletic creative community. One particular trend which continues to become increasingly prevalent is the rate at which creatives are being burnt out of being creative and losing interest in the job which they first loved.
+
+In order to determine the number of tweets posted to twitter that display an issue with mental health and burnout and show the need for surveys understanding who and why individuals in this community are being burnt out, web scraping via R Studio will be completed.
+
+This will be a report on the scrubbing from Twitter for tweets surrounding mental health in creative teams throughout the country.\
+[twitter](twitter.com)
+
+```{r, echo = FALSE}
+API_key = "oo3JUlJyOwHIIN5hl05jWVNX2"
+API_secret = "rFFM53wz9Vm7XEl5tUP60ewgcEzPE5eYGLTih1IlhBxAmjjEDA"
+Access_token = "975409995725660161-5ZbYugzSIdASUu3JLgYE0jP4jxrglvK"
+Access_secret = "Nv5MLDGYqf6MtWaXTSWu3ghaV2RTMLfqSNDCUOO4abCnF"
+
+```
+
+```{r, echo = FALSE}
+library(posterdown)
+library(rtweet)
+library(twitteR)
+library(ggplot2)
+```
