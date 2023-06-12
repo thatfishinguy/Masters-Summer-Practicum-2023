@@ -1,11 +1,11 @@
 ---
-title: "Mental Health Assessment Report"
+title: "Summer Practicum 2023"
 author: "Nathan McCoy"
 date: "2023-06-07"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
   bibliography: MPH_Practicum_2023.bib
 ---
 
