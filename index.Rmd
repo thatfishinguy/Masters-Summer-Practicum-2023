@@ -1,11 +1,11 @@
 ---
 title: "Summer Practicum 2023"
 author: "Nathan McCoy"
-date: "2023-06-07"
+date: "2023"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
   bibliography: MPH_Practicum_2023.bib
 ---
 
@@ -25,7 +25,7 @@ This is a website dedicated to the practicum research completed by Nathan McCoy 
 
 ## Introduction
 
-Mental health plays a significant role in the efficiency and productiveness in any team. Poor mental health and stress can affect job performance, productivity, engagement, communication and daily functioning [@rotensteinPrevalenceBurnoutPhysicians2018].
+Mental health plays a significant role in the efficiency and productiveness in any team. Poor mental health and stress can affect job performance, productivity, engagement, communication and daily functioning [@rotensteinPrevalenceBurnoutPhysicians2018]. With prolonged mental health strain and burnout, other more serious mental health disorders can manifest in these individuals including sleep disturbances, headaches, infections, depression, suicidal idealization and anxiety [@nadonShouldBurnoutBe2022]. 
 
 The research on burnout is extensive including research into specific subsections of the world. Some such populations include medical workers, parents, educators and others which dive deep into the specifics of the details as to why these important sectors of society are increasingly finding their mental health at risk.  
 
@@ -53,7 +53,9 @@ The study however pointed out limiations to the study including a low 18.7% resp
 
 Parental burnout is another very important area of study because of the importance of their wellbeing in caring for the next generation of humanity. There have been several studies done to assess the mental health status of parents that are relevant to the study of mental health and burnout in other sectors of the population.  
 
+One study done between Ireland, Norway, Switzerland, the Netherlands and the UK was done to assess the depressive symptoms, anxiety and stress and women's demographics, health and reproductive characteristics. This study was done through the use of the Edinburgh Depression scale, the Generalized Anxiety Disorder seven-item scale (GAD-7) and the percieved stress scale.  
 
+Researchers were able to analyze the data and look into risk factors that were associated with poor mental health status including having an unplanned pregnancy, having a chronic mental illness, a chronic somatic illness in the postpartum period, smoking and living in the UK or Ireland.  
 
 ## Twitter Data   
 
