@@ -3,9 +3,9 @@ title: "Summer Practicum 2023"
 author: "Nathan McCoy"
 date: "2023-06-07"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
   bibliography: MPH_Practicum_2023.bib
 ---
 
@@ -51,7 +51,9 @@ The study however pointed out limiations to the study including a low 18.7% resp
 
 ### Parental Burnout. 
 
-Parental burnout is another very important area of study because of the importance of their wellbeing in caring for the next generation of humanity. There have been several studies done to assess the mental health status of parents that are relevant to the study of mental health and burnout 
+Parental burnout is another very important area of study because of the importance of their wellbeing in caring for the next generation of humanity. There have been several studies done to assess the mental health status of parents that are relevant to the study of mental health and burnout in other sectors of the population.  
+
+
 
 ## Twitter Data   
 
